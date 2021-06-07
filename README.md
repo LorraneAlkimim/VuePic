@@ -1,6 +1,6 @@
 # vuepic
 
-> A Vue.js training project
+> A Vue.js project for training
 
 ## Build Setup
 

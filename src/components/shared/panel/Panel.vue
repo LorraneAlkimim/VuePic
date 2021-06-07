@@ -37,6 +37,7 @@ export default {
         height: 100%;
         vertical-align: top;
         text-align: center;
+        overflow: hidden;
 
         .fading-panel-enter, .fading-panel-leave-active {
             opacity: 0;
